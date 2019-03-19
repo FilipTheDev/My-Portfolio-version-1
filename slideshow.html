@@ -1,0 +1,105 @@
+<html>
+
+<head>
+
+<!-- Global Site Tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-130770628-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-130770628-1');
+</script>
+
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> My Photos - Slideshow </title>
+  <link rel="stylesheet" href="Style.css">
+</head>
+
+<body>
+  <div id="sidebar">
+    <img id="me" src="images/me.jpg" alt="picture of me" />
+
+    <h1> Filip Tomevski </h1>
+
+    <p id="about">I am 16 years old and I'm 2nd year student</br>
+      in secondary technical school SOTU</br>
+      Gorgi Naumov - Bitola.</p>
+
+    <a href="index.html">
+      <div class="unselected_tab"> Merits </div>
+    </a>
+
+    <a href="photos.html">
+      <div class="selected_tab"> Photos </div>
+    </a>
+
+    <a href="games.html">
+      <div class="unselected_tab">Games </div>
+    </a>
+
+    <a href="https://www.facebook.com/Filip.Tomevski1" target="_blank">
+	    <img id="facebook" src="images\fb.png" alt="logo of facebook"> </a>
+
+    <a href="https://www.instagram.com/t3mp0rary.name/" target="_blank">
+	    <img id="instagram" src="images/ig.png" alt="logo of instagram"> </a>
+    <p id="mail"> tomevskif@gmail.com </p>
+  </div>
+  <a href="photos.html">
+    <div id="slideshow">
+      <p id="text-ss">Gallery</p>
+    </div>
+  </a>
+  <div id="main">
+    <h3> My Photos </h3>
+    <div id="ss-container">
+      <img class="mySlides" src="gallery/sun.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/branches.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/brunches1.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/waterfall.jpg" style="width:100%; height:auto">
+      <img class="myslides" src="gallery/waterfall1.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/waterfall2.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/waterfall3.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/waterfall4.jpg" style="width:100%; height:auto">
+      <img class="mySlides" src="gallery/flower.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/flower1.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/waterfall5.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/waterfall6.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/waterfall7.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/waterfall8.jpg" style="width:auto; height:100%">
+      <img class="mySlides" src="gallery/sky.jpg" style="width:auto; height:82.25%">
+  <!--<img class="mySlides" src="gallery/.jpg" style="width: %; height: %"> -->
+  <!--  <img class="mySlides" src="gallery/.jpg" style="width: %; height: %"> -->
+    <button class="button-black-left" onclick="plusDivs(-1)">&#10094;</button>
+    <button class="button-black-right" onclick="plusDivs(1)">&#10095;</button>
+    </div>
+    <script>
+      var slideIndex = 1;
+      showDivs(slideIndex);
+
+      function plusDivs(n) {
+        showDivs(slideIndex += n);
+      }
+
+      function showDivs(n) {
+        var i;
+        var x = document.getElementsByClassName("mySlides");
+        if (n > x.length) {
+          slideIndex = 1
+        }
+        if (n < 1) {
+          slideIndex = x.length
+        }
+        for (i = 0; i < x.length; i++) {
+          x[i].style.display = "none";
+        }
+        x[slideIndex - 1].style.display = "block";
+      }
+    </script>
+
+  </div>
+</body>
+
+</html>

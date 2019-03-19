@@ -1,0 +1,2975 @@
+@media only screen and (min-width: 280px) and (max-width: 309px) /* height 150 */ {
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: .05px solid black;
+    border-top: none;
+    background-color: #D8D8D8;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: auto;
+    height: 26%;
+    max-width: 100%;
+    max-height: 90px;
+  }
+  h1 { /* Filip Tomevski */
+    margin-top: 9%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 9px;
+  }
+  #about {
+    margin-top: -2%;
+    text-align: center;
+    font-size: 7px;
+    font-weight: lighter;
+    margin-bottom: 9%;
+    font-family: sans-serif;
+  }
+  #about br {
+    display: none;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    width: 97.8%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px;
+    font-size: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    width: 97.8%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px;
+    font-size: 10px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: grey;
+  }
+  #facebook {
+    width: 15px;
+    height: auto;
+    margin-left: 20%;
+  }
+
+  #instagram {
+    width: 15px;
+    height: auto;
+    margin-left: 19%;
+    margin-top: 10%;
+  }
+
+  #mail {
+    font-family: sans-serif;
+    margin-top: 2%;
+    text-align: center;
+    font-size: 7px;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    font-family: sans-serif;
+    margin-top: 13%;
+    text-align: center;
+    font-size: 11px;
+  }
+  #p1 {
+    font-family: sans-serif;
+    margin-top: 7.6%;
+    text-align: center;
+    font-size: 7px;
+  }
+  #p2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 7px;
+  }
+  #main br {
+    display: none;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 1px;
+    font-size: 13px;
+    margin-bottom: 15px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: .05px solid black;
+    width: 10.7%;
+    height: 5.9%;
+    margin-left: 220px;
+    top: 10px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 5.5px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 10%;
+    height: 7%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 133%;
+  }
+  #ss-container .button-black-right {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 10%;
+    height: 7%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.5%;
+    margin-top: 133%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h4 {
+    font-family: sans-serif;
+    margin-top: 1px;
+    margin-left: 21px;
+    font-size: 7.5px;
+  }
+  #mem-card {
+    width: 25%;
+    height: 10%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h6 {
+    text-align: center;
+    margin-top: 4px;
+    font-size: 17px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #try_again {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 310px) and (max-width: 369px) /* height 162 */ {
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: .23px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 1.7%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 53%;
+    height: auto;
+  }
+  h1 {
+    margin-top: .1%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 8px;
+  }
+  #about {
+    margin-top: -6px;
+    text-align: center;
+    font-size: 5.5px;
+    font-weight: lighter;
+    margin-bottom: 4px;
+    font-family: sans-serif;
+  }
+  #about br {
+    display: none;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px .3px;
+    font-size: 7.8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: green;
+    width: 99.047%;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px .3px;
+    font-size: 7.8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: grey;
+    width: 99.047%;
+  }
+  #facebook {
+    width: 15px;
+    height: auto;
+    margin-left: 18px;
+    margin-top: 2px;
+  }
+
+  #instagram {
+    width: 15px;
+    height: auto;
+    margin-left: 15px;
+    margin-top: 2px;
+  }
+
+  #mail {
+    font-family: sans-serif;
+    margin-top: 0px;
+    text-align: center;
+    font-size: 6.5px;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    font-family: sans-serif;
+    margin-top: 12%;
+    text-align: center;
+    font-size: 12px;
+  }
+  #p1 {
+    font-family: sans-serif;
+    margin-top: 7.3%;
+    text-align: center;
+    font-size: 7.5px;
+  }
+  #p2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 7.5px;
+  }
+  #main br {
+    display: none;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 1px;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: .2px solid black;
+    width: 10%;
+    height: 5.6%;
+    margin-left: 235px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 6px;
+    font-weight: bold;
+    font-family: sans-serif;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 13%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 46%;
+  }
+  #ss-container .button-black-right {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 13%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.5%;
+    margin-top: 46%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h4 {
+    font-family: sans-serif;
+    margin-top: 1px;
+    margin-left: 21px;
+    font-size: 7.5px;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h6 {
+    text-align: center;
+    margin-top: 4px;
+    font-size: 17px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #try_again {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+
+@media only screen and (min-width: 370px) and (max-width: 439px) {
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: .5px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 1.4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 53%;
+    height: auto;
+  }
+  h1 {
+    margin-top: .1%;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 10px;
+  }
+  #about {
+    margin-top: -6px;
+    text-align: center;
+    font-size: 6.5px;
+    font-weight: lighter;
+    margin-bottom: 4px;
+    font-family: sans-serif;
+  }
+  #about br {
+    display: none;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: green;
+    width: 99.047%;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 8px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: grey;
+    width: 99.047%;
+  }
+  #instagram {
+    width: 18px;
+    height: auto;
+    margin-left: 15px;
+    margin-top: 2px;
+  }
+  #facebook {
+    margin-left: 18px;
+    width: 18px;
+    height: auto;
+    margin-top: 2px;
+  }
+  #mail {
+    font-family: sans-serif;
+    margin-top: -1px;
+    text-align: center;
+    font-size: 7px;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    font-family: sans-serif;
+    margin-top: 13%;
+    text-align: center;
+    font-size: 14px;
+  }
+  #p1 {
+    font-family: sans-serif;
+    margin-top: 7.3%;
+    text-align: center;
+    font-size: 8px;
+  }
+  #p2 {
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 8px;
+  }
+  #main br {
+    display: none;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 1px;
+    font-size: 14px;
+    margin-bottom: 15px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: .6px solid black;
+    width: 10%;
+    height: 5.4%;
+    margin-left: 280px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 8px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 14%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 44%;
+  }
+  #ss-container .button-black-right {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 14%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.5%;
+    margin-top: 44%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h4 {
+    font-family: sans-serif;
+    margin-top: 1px;
+    margin-left: 22px;
+    font-size: 9px;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h6 {
+    text-align: center;
+    margin-top: 4px;
+    font-size: 17px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #try_again {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 16px;
+  }
+}
+
+@media only screen and (min-width: 440px) and (max-width: 519px) {
+  #sidebar {
+    display: block;
+    height: 100%;
+    width: 25.7%;
+    border: .5px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 1.8%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 56%;
+    height: auto;
+  }
+  h1 {
+    margin-top: 1.5%;
+    text-align: center;
+    font-size: 12px;
+  }
+  #about {
+    margin-top: -6px;
+    text-align: center;
+    font-size: 7.55px;
+  }
+  #about br {
+    display: none;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 11px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: green;
+    width: 99.047%;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 11px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    background: grey;
+    width: 99.047%;
+  }
+  #instagram {
+    width: 24px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 4px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 24px;
+    height: auto;
+    margin-top: 4px;
+  }
+  #mail {
+    margin-top: 3px;
+    text-align: center;
+    font-size: 9px;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    margin-top: 18%;
+    text-align: center;
+    font-size: 17px;
+  }
+  #p1 {
+    margin-top: 9%;
+    text-align: center;
+    font-size: 10px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 10px;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 1px;
+    font-size: 16px;
+    margin-bottom: 15px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: .6px solid black;
+    width: 10%;
+    height: 5.4%;
+    margin-left: 340px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 10px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 9.8%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 50%;
+  }
+  #ss-container .button-black-right {
+    padding: 0px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.4%;
+    height: 9.8%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.5%;
+    margin-top: 50%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 20px;
+    font-size: 12px;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h6 {
+    margin-left: 70px;
+    margin-top: 12px;
+    font-size: 20px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+}
+
+@media only screen and (min-width: 520px) {
+  #me {
+    margin-top: 2%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 64%;
+    height: auto;
+  }
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  h1 {
+    margin-top: 2.78%;
+    text-align: center;
+    font-size: 17px;
+  }
+  #about {
+    text-align: center;
+    font-size: 9px;
+  }
+  h2 {
+    margin-top: 33%;
+    text-align: center;
+    font-size: 22px;
+  }
+  #p1 {
+    margin-top: 11%;
+    text-align: center;
+    font-size: 11px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 11px;
+  }
+  #facebook {
+    margin-top: 15px;
+    margin-left: 27px;
+    height: auto;
+    width: auto;
+  }
+  #instagram {
+    margin-top: 15px;
+    margin-left: 21px;
+    width: auto;
+    height: auto;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.7%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 2px;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  #instagram {
+    width: 35px;
+    height: auto;
+    margin-left: 20px;
+    margin-top: 3px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 35px;
+    height: auto;
+    margin-top: 3px;
+  }
+  h6 {
+    margin-left: 70px;
+    margin-top: 12px;
+    font-size: 26px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #mail {
+    margin-top: 3px;
+    text-align: center;
+    font-size: 11px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 27px;
+    font-size: 16px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 11%;
+    height: 4%;
+    margin-left: 400px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 12.5px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 6.5%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 123%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 6.5%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.2%;
+    margin-top: 123%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 590px) {
+  #me {
+    margin-top: 3.4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 67%;
+    height: auto;
+  }
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  h1 {
+    margin-top: 2.78%;
+    text-align: center;
+    font-size: 20px;
+  }
+  #about {
+    text-align: center;
+    font-size: 10px;
+  }
+  h2 {
+    margin-top: 33%;
+    text-align: center;
+    font-size: 25px;
+  }
+  #p1 {
+    margin-top: 11%;
+    text-align: center;
+    font-size: 14px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 14px;
+  }
+  #facebook {
+    margin-top: 15px;
+    margin-left: 27px;
+    height: auto;
+    width: auto;
+  }
+  #instagram {
+    margin-top: 15px;
+    margin-left: 21px;
+    width: auto;
+    height: auto;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 15px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 2px;
+    font-size: 22px;
+    margin-bottom: 15px;
+  }
+  #instagram {
+    width: 35px;
+    height: auto;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 35px;
+    height: auto;
+  }
+  h6 {
+    margin-left: 70px;
+    margin-top: 12px;
+    font-size: 26px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 43px;
+    font-size: 14px;
+  }
+  #mail {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 14px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 27px;
+    font-size: 16px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 9%;
+    height: 4%;
+    margin-left: 470px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 12.5px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.1%;
+    height: 7.4%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 106%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.1%;
+    height: 7.4%;
+    border: none;
+    cursor: pointer;
+    margin-left: 91.8%;
+    margin-top: 106%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 650px) {
+  #me {
+    margin-top: 3.4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 63%;
+    height: auto;
+  }
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  h1 {
+    margin-top: 2.78%;
+    text-align: center;
+    font-size: 21px;
+  }
+  #about {
+    text-align: center;
+    font-size: 9.5px;
+  }
+  h2 {
+    margin-top: 33%;
+    text-align: center;
+    font-size: 24px;
+  }
+  #p1 {
+    margin-top: 11%;
+    text-align: center;
+    font-size: 12px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 12px;
+  }
+  #facebook {
+    margin-top: 15px;
+    margin-left: 27px;
+    height: auto;
+    width: auto;
+  }
+  #instagram {
+    margin-top: 15px;
+    margin-left: 21px;
+    width: auto;
+    height: auto;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 16px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 16px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 2px;
+    font-size: 23px;
+    margin-bottom: 15px;
+  }
+  #instagram {
+    width: 35px;
+    height: auto;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 35px;
+    height: auto;
+  }
+  h6 {
+    margin-left: 105px;
+    margin-top: 12px;
+    font-size: 26px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 78px;
+    font-size: 15px;
+  }
+  #mail {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 15px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 27px;
+    font-size: 16px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 9%;
+    height: 5.2%;
+    margin-left: 510px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 13.5px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 80%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.2%;
+    margin-top: 80%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 790px) {
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 3.4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 58%;
+    height: auto;
+  }
+  h1 {
+    margin-top: 2.78%;
+    text-align: center;
+    font-size: 23px;
+  }
+  #about {
+    text-align: center;
+    font-size: 12px;
+  }
+  #p1 {
+    margin-top: 9.1%;
+    text-align: center;
+    font-size: 14px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 14px;
+  }
+  #facebook {
+    margin-top: 15px;
+    margin-left: 27px;
+    height: auto;
+    width: auto;
+  }
+  #instagram {
+    margin-top: 15px;
+    margin-left: 21px;
+    width: auto;
+    height: auto;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    margin-top: 22.5%;
+    text-align: center;
+    font-size: 26px;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 17px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 17px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 3px;
+    font-size: 23px;
+    margin-bottom: 12px;
+  }
+  #instagram {
+    width: 35px;
+    height: auto;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 35px;
+    height: auto;
+  }
+  h6 {
+    margin-left: 160px;
+    margin-top: 12px;
+    font-size: 28px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 135px;
+    font-size: 15px;
+  }
+  #mail {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 16px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 30px;
+    font-size: 19px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 9%;
+    height: 5.2%;
+    margin-left: 620px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 15.4px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.5%;
+    height: 8.5%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 80%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.5%;
+    height: 8.5%;
+    border: none;
+    cursor: pointer;
+    margin-left: 91.63%;
+    margin-top: 80%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 800px) {
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 3.4%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 56%;
+    height: auto;
+  }
+  h1 {
+    margin-top: 2.78%;
+    text-align: center;
+    font-size: 21px;
+  }
+  #about {
+    text-align: center;
+    font-size: 12px;
+  }
+  h2 {
+    margin-top: 22.5%;
+    text-align: center;
+    font-size: 26px;
+  }
+  #p1 {
+    margin-top: 9.1%;
+    text-align: center;
+    font-size: 14px;
+  }
+  #p2 {
+    text-align: center;
+    font-size: 14px;
+  }
+  #facebook {
+    margin-top: 15px;
+    margin-left: 27px;
+    height: auto;
+    width: auto;
+  }
+  #instagram {
+    margin-top: 15px;
+    margin-left: 21px;
+    width: auto;
+    height: auto;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 17px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 8.1%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 17px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 3px;
+    font-size: 23px;
+    margin-bottom: 12px;
+  }
+  #instagram {
+    width: 35px;
+    height: auto;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 35px;
+    height: auto;
+  }
+  h6 {
+    margin-left: 160px;
+    margin-top: 12px;
+    font-size: 28px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 60px;
+    font-size: 15px;
+  }
+  #mail {
+    margin-top: 10px;
+    text-align: center;
+    font-size: 16px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 30px;
+    font-size: 19px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid black;
+    width: 8.6%;
+    height: 5%;
+    margin-left: 620px;
+    top: 12px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 15.4px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.6%;
+    height: 8.6%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 78%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 8.6%;
+    height: 8.6%;
+    border: none;
+    cursor: pointer;
+    margin-left: 91.3%;
+    margin-top: 78%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 1024px) {
+  #me {
+    margin-top: 3.49971742543%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 55%;
+    height: auto;
+  }
+  #sidebar {
+    height: 100%;
+    width: 25.7%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  h1 {
+    margin-top: 3.67%;
+    text-align: center;
+    font-size: 27px;
+  }
+  #about {
+    text-align: center;
+    font-size: 14.5px;
+  }
+  #mail {
+    margin-top: 35px;
+    text-align: center;
+    font-size: 20px;
+  }
+  h2 {
+    margin-top: 25%;
+    text-align: center;
+    font-size: 28px;
+  }
+  #p1 {
+    font-size: 16px;
+    margin-top: 10%;
+    text-align: center;
+  }
+  #p2 {
+    font-size: 16px;
+    text-align: center;
+  }
+  #main {
+    float: right;
+    width: 73%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 9%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 9%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 20px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  #instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+  }
+  h6 {
+    margin-left: 222px;
+    margin-top: 24px;
+    font-size: 32px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 199px;
+    font-size: 15px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 30px;
+    font-size: 26px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.5px solid black;
+    width: 9%;
+    height: 4.4%;
+    margin-left: 800px;
+    top: 16px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 17px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 59%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.3%;
+    margin-top: 59%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 1280px) {
+  #sidebar {
+    height: 100%;
+    width: 23.175824175%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 2.7;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 54%;
+    height: auto;
+  }
+  h1 {
+    margin-top: 3.67%;
+    text-align: center;
+    font-size: 29px;
+  }
+  #about {
+    text-align: center;
+    font-size: 16px;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.633587786%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.633587786%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 18px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  #instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+  }
+  #facebook {
+    margin-left: 20px;
+    width: 50px;
+    height: 50px;
+  }
+  #main {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin-top: auto;
+    background-color: #F8F8F8;
+  }
+  h2 {
+    margin-top: 12.1%;
+    text-align: center;
+    font-size: 28px;
+  }
+  #p1 {
+    font-size: 16px;
+    margin-top: 10%;
+    text-align: center;
+  }
+  #p2 {
+    font-size: 16px;
+    text-align: center;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+  h6 {
+    margin-left: 324px;
+    margin-top: 24px;
+    font-size: 32px;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 16px;
+  }
+  #mail {
+    margin-top: 25px;
+    text-align: center;
+    font-size: 19px;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 44.5px;
+    font-size: 29px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1.5px solid black;
+    width: 7.6716085989621%;
+    height: 5.551811023622%;
+    margin-left: 1000px;
+    top: 16px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+  }
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 45.1171875%;
+  }
+  #ss-container .button-black-right {
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.3%;
+    margin-top: 45.1171875%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+}
+
+@media only screen and (min-width: 1360px) {
+  #sidebar {
+    height: 100%;
+    width: 24.175824175%;
+    border: 1px solid black;
+    background-color: lightgray;
+    float: left;
+    position: fixed;
+    left: 0;
+    top: 0;
+  }
+  #me {
+    margin-top: 3%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 50%;
+    width: 52%;
+    height: auto;
+  }
+  h1 {
+    margin-top: 4px;
+    margin-bottom: -3px;
+    text-align: center;
+  }
+  #about {
+    text-align: center;
+    font-size: 16.3px;
+  }
+  .selected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.633587786%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 112.5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: green;
+  }
+  .unselected_tab {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 7.633587786%;
+    line-height: 50px;
+    text-align: center;
+    margin: 1px 0;
+    font-size: 112.5%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    font-weight: 100;
+    background: grey;
+  }
+  #instagram {
+    width: 50px;
+    height: 50px;
+    margin-left: 75px;
+  }
+  #facebook {
+    margin-left: 75px;
+    width: 50px;
+    height: 50px;
+  }
+  #mail {
+    margin-top: 17px;
+    text-align: center;
+    font-size: 21px;
+  }
+  #main {
+    background-size: 100% 100%;
+    filter: url(image/pic.jpg);
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+  }
+
+  h2 {
+    margin-top: 19%;
+    text-align: center;
+    font-size: 210%;
+  }
+  #p1 {
+    font-size: 17px;
+    margin-top: 9.3%;
+    text-align: center;
+  }
+  #p2 {
+    font-size: 17px;
+    text-align: center;
+  }
+  a:link {
+    text-decoration: none;
+  }
+  a:visited {
+    text-decoration: none;
+  }
+  a:hover {
+    text-decoration: none;
+  }
+  a:active {
+    text-decoration: none;
+  }
+  #main-photos {
+    float: right;
+    width: 73.544435724%;
+    height: auto;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  h3 {
+    text-align: center;
+    margin-top: 7px;
+    font-size: 200%;
+    margin-bottom: 12px;
+  }
+  .vertical-image {
+    width: 14.69387755102%;
+    height: auto;
+  }
+  .horizontal-image {
+    width: 26.122448979591%;
+    height: auto;
+  }
+  .square-image {
+    width: 21.224489795918%;
+    height: auto;
+  }
+  #slideshow {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid black;
+    width: 7.6716085989621%;
+    height: 5.551811023622%;
+    margin-left: 1100px;
+    top: 16px;
+    background-color: #0000F8;
+    position: absolute;
+  }
+  #text-ss {
+    color: black;
+    text-align: center;
+    font-size: 118.75%;
+    font-weight: bold;
+  }
+    
+  #ss-container {
+    display: flex;
+    position: relative;
+    margin: auto;
+    width: 52.244897959183%;
+    height: 85.333333333333%;
+  }
+  #ss-container .mySlides {
+    margin: auto;
+  }
+  #ss-container .button-black-left {
+    font-size: 23px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    cursor: pointer;
+    border: none;
+    margin-left: 0%;
+    margin-top: 45.1171875%;
+  }
+  #ss-container .button-black-right {
+    font-size: 23px;
+    position: absolute;
+    background-color: #303030;
+    color: White;
+    width: 9.765625%;
+    height: 9.765625%;
+    border: none;
+    cursor: pointer;
+    margin-left: 90.3%;
+    margin-top: 45.1171875%;
+  }
+  #ss-container .button-black-right:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #ss-container .button-black-left:hover {
+    background-color: Black;
+    color: #E0E0E0;
+  }
+  #main-games {
+    float: right;
+    width: 73.544435724%;
+    height: 97.037037037%;
+    margin: auto;
+    background-color: #F8F8F8;
+  }
+  #main-games a:hover {
+    color: Lime;
+  }
+  #main-games a {
+    color: Black;
+  }
+  #mem-card {
+    width: 25.11020408163265%;
+    height: 25%;
+    margin-left: 19px;
+    margin-top: 14px;
+    border: 1px solid black;
+  }
+  #mem-thumbnail {
+    width: 99.9%;
+    height: 99.9%;
+  }
+  h4 {
+    margin-top: 1px;
+    margin-left: 44.5px;
+    font-size: 193.75%;
+  }
+  h6 {
+    margin-left: 357px;
+    margin-top: 25px;
+    font-size: 200%;
+  }
+  #instructions {
+    margin-top: 30px;
+    margin-left: 200px;
+    font-size: 105%;
+  }
+  #try_again {
+    margin-top: 40px;
+    text-align: center;
+    font-size: 140%;
+  }
+}

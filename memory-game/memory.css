@@ -1,0 +1,22 @@
+.clickable_square {
+  height: 50px;
+  width: 50px;
+  background: gray;
+  float: left;
+  margin: 2px;
+  overflow: hidden;
+  background-image: url("/../images/back_card.jpg");
+}
+
+.newline_div {
+  clear: left;
+}
+
+#main_cont {
+  margin: 0 auto;
+  width: 300px;
+}
+
+img {
+  -moz-user-select: none;
+}
